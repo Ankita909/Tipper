@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tipper</string>
+    <string name="tip_percent">15%</string>
+    <string name="percent_15">15%</string>
+    <string name="Tip">Tip</string>
+    <string name="Total">Total</string>
+    <string name="Base">Base</string>
+</resources>
